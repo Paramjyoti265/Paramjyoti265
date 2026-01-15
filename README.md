@@ -8,14 +8,14 @@ enable machines to interpret and analyze visual data.
 🔬 Research Interests:
 ➡ Computer Vision                 
 ➡ Image Processing
-➡ Object Detection & Recognition   
+➡ Object Detection & Recognition
 ➡ Deep Learning for Visual Data
 
 🛠 Technical Skills:
 ➡ Python      
 ➡ OpenCV   
 ➡ PyTorch / TensorFlow
-➡ NumPy, Pandas 
+➡ NumPy, Pandas
 ➡ Git & GitHub 
 
 
