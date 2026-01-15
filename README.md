@@ -1,8 +1,3 @@
-
-**Paramjyoti265/Paramjyoti265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Hello, This is Param Jyoti Chowdhury 👋
 
 I am a Computer Science graduate with a strong academic interest in
