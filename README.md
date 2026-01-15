@@ -6,17 +6,13 @@ I am motivated to explore how machine learning and deep learning techniques
 enable machines to interpret and analyze visual data.
 
 🔬 Research Interests:
-- Computer Vision
-- Image Processing
-- Object Detection & Recognition
-- Deep Learning for Visual Data
+➡ Computer Vision                  ➡ Image Processing
+➡ Object Detection & Recognition   ➡ Deep Learning for Visual Data
 
 🛠 Technical Skills:
-- Python
-- OpenCV
-- PyTorch / TensorFlow
-- NumPy, Pandas
-- Git & GitHub
+➡ Python      ➡ PyTorch / TensorFlow
+➡ OpenCV      ➡ NumPy, Pandas   
+➡ Git & GitHub
 
 📂 Areas of Work:
 - Image classification and feature extraction
