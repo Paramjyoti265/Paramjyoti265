@@ -5,12 +5,34 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello, This is Param Jyoti Chowdhury 👋
+
+I am a Computer Science graduate with a strong academic interest in
+Artificial Intelligence, particularly Computer Vision and visual understanding.
+I am motivated to explore how machine learning and deep learning techniques
+enable machines to interpret and analyze visual data.
+
+🔬 Research Interests:
+- Computer Vision
+- Image Processing
+- Object Detection & Recognition
+- Deep Learning for Visual Data
+
+🛠 Technical Skills:
+- Python
+- OpenCV
+- PyTorch / TensorFlow
+- NumPy, Pandas
+- Git & GitHub
+
+📂 Areas of Work:
+- Image classification and feature extraction
+- Computer vision projects using deep learning
+- Research-oriented implementations and experimentation
+
+
+ 📍 Location: Bangladesh
+
+
+
 -->
