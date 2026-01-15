@@ -11,8 +11,8 @@ enable machines to interpret and analyze visual data.
 
 🛠 Technical Skills:
 ➡ Python      ➡ PyTorch / TensorFlow
-➡ OpenCV      ➡ NumPy, Pandas   
-➡ Git & GitHub
+➡ OpenCV      ➡ NumPy, Pandas  ➡ Git & GitHub 
+
 
 📂 Areas of Work:
 - Image classification and feature extraction
