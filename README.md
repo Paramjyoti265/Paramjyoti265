@@ -29,8 +29,5 @@ enable machines to interpret and analyze visual data.
 - Research-oriented implementations and experimentation
 
 
- 📍 Location: Bangladesh
-
-
 
 -->
