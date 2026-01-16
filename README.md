@@ -23,6 +23,6 @@ enable machines to interpret and analyze visual data.
 - Image classification and feature extraction
 - Computer vision projects using deep learning
 - Research-oriented implementations and experimentation
-
+- lane understanding & Sensor-based scene analysis
 
 
