@@ -9,7 +9,7 @@ enable machines to interpret and analyze visual data.
 - Computer Vision                 
 - Image Processing
 - Object Detection, Recognition and lane understanding 
-- Visual perception for autonomous system
+- Visual perception for autonomous driving
 
 🛠 Technical Skills:
 - Python      
